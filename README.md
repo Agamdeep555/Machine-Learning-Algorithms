@@ -1,1 +1,1 @@
-# Implementing Machine Learning Algorthms
+# Implementing Machine Learning Algorithms
